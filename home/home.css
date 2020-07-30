@@ -1,0 +1,32 @@
+.top_nav{
+    background-color: #3e3e3e;
+    width: 100%;
+    float: left;
+}
+.top_nav1{
+    width: 1260px;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+.top_nav2{
+    padding: 0 !important;
+    background-color: #3e3e3e;
+    box-sizing: border-box;
+}
+.global_nav_content{
+    margin: 10px 0 20px;
+    float: left;
+    width: 100%;
+}
+.ngglobalnav{
+    width: auto !important;
+    margin: 0 auto;
+    display: table !important;
+}
+.ngglobalnav a{
+    color: #ffffff98;
+    text-decoration: none;
+    padding: 0px 18px;
+    text-transform: uppercase;
+    font-size: 10px;
+}

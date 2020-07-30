@@ -1,1 +1,9 @@
 /*All css files will be merged here*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+div{
+    display: block;
+}
